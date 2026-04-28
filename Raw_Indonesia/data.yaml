@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Asli-100k
+  1: Asli-50k
+  2: Palsu-100k
+  3: Palsu-50k
+  4: Tinta-Asli-100k
+  5: Tinta-Asli-50k
+  6: Tinta-Palsu-100k
+  7: Tinta-Palsu-50k
